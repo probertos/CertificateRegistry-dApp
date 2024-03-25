@@ -1,1 +1,1 @@
-# dApp
+# Certificate Registry Dapp
